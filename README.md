@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nidhi Choudhary
 - 👀 I’m interested in Ros and computer vision
 - 🌱 I’m currently learning Ros
-- 💞️ I’m looking to collaborate on RObotics projects
+- 💞️ I’m looking to collaborate on Robotics projects
 - 📫 How to reach me at nidhich2911@gmail.com
 
 <!---
